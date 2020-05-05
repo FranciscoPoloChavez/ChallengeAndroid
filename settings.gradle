@@ -1,0 +1,2 @@
+rootProject.name='Challenge2_CRUD'
+include ':app'

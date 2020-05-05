@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "269227997061",
+    "firebase_url": "https://challenge2-crud.firebaseio.com",
+    "project_id": "challenge2-crud",
+    "storage_bucket": "challenge2-crud.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:269227997061:android:0725ef12f952a91b1bf6ec",
+        "android_client_info": {
+          "package_name": "com.challengeapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "269227997061-1estbtn1mkd51mbjoqm1i4a8oradv1fp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtBPLjBQFQUNVA_Pn_IUvzFnnzAZEr1uw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "269227997061-1estbtn1mkd51mbjoqm1i4a8oradv1fp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
